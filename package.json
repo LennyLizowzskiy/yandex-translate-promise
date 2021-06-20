@@ -1,0 +1,26 @@
+{
+  "name": "yandex-translate-promise",
+  "version": "1.0.0",
+  "description": "Node.js wrapper for https://yandex.com/dev/translate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LennyLizowzskiy/yandex-translate-promise.git"
+  },
+  "keywords": [
+    "yandex",
+    "translate"
+  ],
+  "author": "LennyLizowzskiy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LennyLizowzskiy/yandex-translate-promise/issues"
+  },
+  "homepage": "https://github.com/LennyLizowzskiy/yandex-translate-promise#readme",
+  "dependencies": {
+    "needle": "^2.6.0"
+  }
+}
