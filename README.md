@@ -33,7 +33,7 @@ Alias method: `yatrans.detect(text, hint)`
 
 &nbsp;
 ```javascript
-yatrans.translate(ui) // GET method internally
+yatrans.translate(text, lang, format, options) // GET method internally
 ```
 Alias GET method: `yatrans.translateGet(text, lang, format, options)`
 
