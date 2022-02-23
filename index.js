@@ -37,7 +37,7 @@ class Translate {
             key: this.key,
             text: text,
             lang: lang,
-            formtat: format,
+            format: format,
             options: options
         }).then((res) => {
             return res.body;
